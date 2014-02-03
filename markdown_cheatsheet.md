@@ -1,6 +1,6 @@
 ---
 published: true
-permalink: /markdown_cheatsheet
+permalink: /markdown_cheatsheet/
 layout: default
 filename: markdown_cheatsheet.md
 ---
