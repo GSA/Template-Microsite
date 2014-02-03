@@ -10,5 +10,5 @@ filename: markdown_cheatsheet.md
 ## Table of Contents
 
 
-`* auto-gen TOC:
+`* auto-gen TOC:  
 {:toc}`
